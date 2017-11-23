@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/unicodeEscapeFeature_1.0.0.201711231333.jar" id="unicodeEscapeFeature" version="1.0.0.201711231333">
+      <category name="unicode-escape"/>
+   </feature>
+   <archive path="features/" url="features/"/>
+   <category-def name="unicode-escape" label="Unicode Escape"/>
+</site>

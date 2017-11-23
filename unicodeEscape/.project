@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>unicode-escape-eclipse</name>
-	<comment></comment>
+	<name>unicodeEscape</name>
+	<comment>Unicode Escape (plugin)</comment>
 	<projects>
 	</projects>
 	<buildSpec>
